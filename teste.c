@@ -15,4 +15,5 @@ int main (){
 void flamengo(){
     printf("Flamengo");
     printf("AAAAAAAAAAAAAAA");
+    printf("Oi otavio :3");
 }
