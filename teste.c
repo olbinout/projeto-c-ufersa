@@ -12,3 +12,7 @@ int main (){
     printf("AAAAAAAAAAAAAA");
     return 0;
 }
+void flamengo(){
+    printf("Flamengo");
+    printf("AAAAAAAAAAAAAAA");
+}
