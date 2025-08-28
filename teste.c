@@ -11,6 +11,10 @@ void scan(){
     printf("Imagine como vai ser pra ensinar isso a Breno.");
 }
 
+void oi(){
+    printf("Oi");
+}
+
 int main (){
     
     printf("Jozenias lindo e gostoso lenda\n");
