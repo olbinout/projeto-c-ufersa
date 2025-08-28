@@ -1,29 +1,15 @@
 #include <stdio.h>
 
-void flamengo(){
-    printf("Flamengo");
-    printf("AAAAAAAAAAAAAAA");
-    printf("Oi otavio :3");
-}
-
-void scan(){
-    printf("Bora, Jonathan. \n");
-    printf("Imagine como vai ser pra ensinar isso a Breno.");
-}
-
-void oi(){
-    printf("Oi");
-}
-
 int main (){
     
-    printf("Jozenias lindo e gostoso lenda\n");
-    printf("Entra Jonathan!!!");
-    printf("AAAAAAAAAAAAAA");
-    
-    flamengo;
-    scan;
+    printf("Aqui se inicia o projeto do JOGO EM C!\n");
 
     return 0;
 }
+
+
+
+//Jonathan 
+//Breno
+//Otavio
 
